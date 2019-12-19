@@ -1,3 +1,8 @@
+---
+layout: default
+title: articles
+---
+
 ### О МодульКассе
 
 Основной сайт: [modulkassa.ru](https://modulkassa.ru/)

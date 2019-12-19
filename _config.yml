@@ -1,1 +1,46 @@
-theme: jekyll-theme-slate
+#theme: jekyll-theme-architect
+
+# Excluded files
+exclude:
+  - README.md
+  - LICENSE
+  - CNAME
+
+# Gems
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jemoji
+
+
+# SCSS
+sass:
+  style: :compressed
+
+# Permalinks
+permalink: pretty
+
+# Site info
+url: "https://merzlikinvs.github.io/fias_service/"
+title: "API Заказов"
+name: "API"
+description: "111 222 333 444"
+logo: "https://avatars1.githubusercontent.com/u/1177460?s=300"
+
+# SEO > twitter name meta
+twitter:
+  username: Modulkassa
+
+# SEO > site alias meta
+#social:
+#  links:
+#    - https://twitter.com/DavidDarnes
+#    - https://www.facebook.com/daviddarnes
+#    - https://www.linkedin.com/in/daviddarnes
+#    - https://plus.google.com/+DavidDarnes
+#    - https://github.com/DavidDarnes
+#    - https://mastodon.design/@daviddarnes
+
+# SEO > author meta
+author: МодульКасса
