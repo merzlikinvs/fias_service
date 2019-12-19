@@ -1,6 +1,9 @@
 ---
 layout: default
-title: articles
+title: О МоульКассе
+menus:
+  header:
+    weight: 1
 ---
 
 ### О МодульКассе
