@@ -6,8 +6,11 @@ exclude:
   - LICENSE
   - CNAME
 
+markdown: kramdown
+theme: minima
+
 # Gems
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-mentions
   - jekyll-menus
